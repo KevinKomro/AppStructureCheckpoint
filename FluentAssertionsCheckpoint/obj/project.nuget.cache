@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "si2MO5t+jmrSw5LgUFGJ2DeofLBWYYSA5i0zPTw5Jc4GXWUEJ17E2o5u0J8XLFNzyiYyA76K+FGkn7S0RubVdQ==",
+  "success": true,
+  "projectFilePath": "C:\\nelnet-projects\\AppStructureCheckpoint\\FluentAssertionsCheckpoint\\FluentAssertionsCheckpoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KKomro\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\KKomro\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\KKomro\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
